@@ -1,4 +1,4 @@
-# CS_370_Emerging_Trends_In_CS
+# CS370 Emerging_Trends In CS
 
 Analyze the role of ethics in current trends within the field as well as apply fundamental concepts of the field to
 solve complex problems in new ways.
